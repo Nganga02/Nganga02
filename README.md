@@ -22,10 +22,10 @@
 #### Contact : nganganicholas50@gmail.com
 
 <!--
-![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ngigi33&show_icons=true&theme=cobalt&height100)
+![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nganga02&show_icons=true&theme=cobalt&height100)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ngigi33&layout=donut&theme=cobalt)](https://github.com/Ngigi33/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nganga02&layout=donut&theme=cobalt)](https://github.com/Nganga02/github-readme-stats)
 <!--
 #### Education : Self-Taught : Flutter, ROS, Microcontroller,PCB, Ubuntu
   #### BSc Mechatrronics Engineering"
