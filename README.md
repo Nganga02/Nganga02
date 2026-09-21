@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm **Ng'ang'a Nicholas**, a Mechatronics Engineer passionate about **embedded systems, robotics, networking, and software development**.
+Hello! I'm **Ng'ang'a Nicholas**, a Mechatronics Engineer passionate about **embedded systems, robotics, networking, and software development** . Here is my [resume](https://docs.google.com/document/d/1dZO7rgybrUntRZc0jRkwfgf3ZhCGOiyj/edit) for your perusal.
 
 - **ALX Alumni – ProDev Backend Program**
 - **Currently studying for the CCNA certification**
@@ -23,8 +23,10 @@ Hello! I'm **Ng'ang'a Nicholas**, a Mechatronics Engineer passionate about **emb
 <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px" />
 </a>
 <a href="mailto:nganganicholas50@gmail.com">
-<img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/gmail.svg" width="21px" />
+<img align="center" src="/images/Gmail_Logo.svg" width="21px" />
 </a>
+
+[Resume](https://docs.google.com/document/d/1dZO7rgybrUntRZc0jRkwfgf3ZhCGOiyj/edit)
 
 ---
 
@@ -86,9 +88,7 @@ Currently I am focusing on learning and building systems in:
 - ☁️ **Distributed systems and backend infrastructure**
 - 🤖 **Robotics and embedded systems**
 
----
-## CV
-<a href="https://docs.google.com/document/d/1dZO7rgybrUntRZc0jRkwfgf3ZhCGOiyj">Resume</a>
+
 ---
 
 ## GitHub Statistics
