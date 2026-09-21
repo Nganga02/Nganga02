@@ -10,8 +10,9 @@ Hello! I'm **Ng'ang'a Nicholas**, a Mechatronics Engineer passionate about **emb
 
 - **ALX Alumni – ProDev Backend Program**
 - **Currently studying for the CCNA certification**
+- **Currently a cybershujaa student** under the cloud and network security
 - Currently working on **networking interfaces in the Linux operating system**
-- Interested in **robotics, distributed systems, networking, and AI**
+- Interested in **robotics, distributed systems, networking and communications**
 - I enjoy building systems that combine **hardware + software**
 
 ---
@@ -20,6 +21,9 @@ Hello! I'm **Ng'ang'a Nicholas**, a Mechatronics Engineer passionate about **emb
 
 <a href="https://www.linkedin.com/in/nicholas-ng-ang-a-11bb97273/"> 
 <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px" />
+</a>
+<a href="mailto:nganganicholas50@gmail.com">
+<img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/gmail.svg" width="21px" />
 </a>
 
 ---
@@ -82,6 +86,9 @@ Currently I am focusing on learning and building systems in:
 - ☁️ **Distributed systems and backend infrastructure**
 - 🤖 **Robotics and embedded systems**
 
+---
+## CV
+<a href="https://docs.google.com/document/d/1dZO7rgybrUntRZc0jRkwfgf3ZhCGOiyj">Resume</a>
 ---
 
 ## GitHub Statistics
