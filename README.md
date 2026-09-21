@@ -26,8 +26,6 @@ Hello! I'm **Ng'ang'a Nicholas**, a Mechatronics Engineer passionate about **emb
 <img align="center" src="/images/Gmail_Logo.svg" width="21px" />
 </a>
 
-[Resume](https://docs.google.com/document/d/1dZO7rgybrUntRZc0jRkwfgf3ZhCGOiyj/edit)
-
 ---
 
 ## Skills
