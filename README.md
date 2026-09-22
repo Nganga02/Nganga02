@@ -208,20 +208,6 @@ The following are the achievements I and have accomplished and currently pursuin
 
 ---
 
-## Backend & Infrastructure
-
-| Area           | Technologies                          |
-| -------------- | ------------------------------------- |
-| Languages      | Python · Dart                         |
-| Frameworks     | Django · Flutter                      |
-| Databases      | PostgreSQL · SQLite                   |
-| Infrastructure | Docker · Redis                        |
-| APIs           | REST APIs · Authentication            |
-| Development    | Git · GitHub Actions · CI/CD          |
-| Architecture   | Backend Systems · Distributed Systems |
-
----
-
 # Featured Projects
 
 <div align="center">
@@ -243,6 +229,9 @@ The following are the achievements I and have accomplished and currently pursuin
 # 🔐 Security Projects & Write-ups
 
 I'm building a collection of practical security experiments focused on **understanding network behaviour at the packet and operating-system level**.
+
+The following are my [project write ups](https://drive.google.com/drive/folders/10dIKyp5VXH6hlAOCWmm7RiJjasagDSFh?usp=drive_link) on Network and Cloud Security.
+
 
 ### Network Analysis
 
